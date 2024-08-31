@@ -1,0 +1,21 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\obj\Debug\ClassLibraryClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\bin\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\bin\Debug\ClassLibraryClustering.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\obj\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\obj\Debug\ClassLibraryClustering.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\bin\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\bin\Debug\ClassLibraryClustering.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.pdb
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\bin\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\bin\Debug\ClassLibraryClustering.pdb
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.dll
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\ClassLibraryClustering\bin\Debug\ClassLibraryClustering.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\ClassLibraryClustering\bin\Debug\ClassLibraryClustering.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\ClassLibraryClustering\obj\Debug\ClassLibraryClustering.pdb

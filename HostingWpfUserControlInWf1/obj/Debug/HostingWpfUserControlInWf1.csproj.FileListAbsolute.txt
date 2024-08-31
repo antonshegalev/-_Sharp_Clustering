@@ -1,0 +1,22 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\bin\Debug\HostingWpfUserControlInWf1.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\bin\Debug\HostingWpfUserControlInWf1.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\UserControl1.baml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\UserControl1.g.cs
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1_MarkupCompile.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.g.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\bin\Debug\HostingWpfUserControlInWf1.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\bin\Debug\HostingWpfUserControlInWf1.pdb
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\UserControl1.baml
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\UserControl1.g.cs
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1_MarkupCompile.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.g.resources
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.Properties.Resources.resources
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.dll
+C:\Users\User\Desktop\All Clustering\Clustering08072022\Clustering\HostingWpfUserControlInWf1\obj\Debug\HostingWpfUserControlInWf1.pdb

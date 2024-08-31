@@ -1,0 +1,15 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\bin\Release\ClassLibrarySeasonalCoefficients.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\bin\Release\ClassLibrarySeasonalCoefficients.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\obj\Release\ClassLibraryClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\obj\Release\ClassLibrarySeasonalCoefficients.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibrarySeasonalCoefficients\obj\Release\ClassLibrarySeasonalCoefficients.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\bin\Release\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\bin\Release\ClassLibraryClustering.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\obj\Release\ClassLibraryClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\obj\Release\ClassLibraryClustering.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\ClassLibraryClustering\obj\Release\ClassLibraryClustering.pdb
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\bin\Release\ClassLibraryClustering.dll
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\bin\Release\ClassLibraryClustering.pdb
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\obj\Release\ClassLibraryClustering.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\obj\Release\ClassLibraryClustering.dll
+C:\Users\Anton\Desktop\Clustering\ClassLibraryClustering\obj\Release\ClassLibraryClustering.pdb

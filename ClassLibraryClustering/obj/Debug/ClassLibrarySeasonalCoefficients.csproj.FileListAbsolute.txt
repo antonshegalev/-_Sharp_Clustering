@@ -1,0 +1,5 @@
+c:\users\anton\documents\visual studio 2015\Projects\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients\bin\Debug\ClassLibrarySeasonalCoefficients.dll
+c:\users\anton\documents\visual studio 2015\Projects\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients\bin\Debug\ClassLibrarySeasonalCoefficients.pdb
+c:\users\anton\documents\visual studio 2015\Projects\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients\obj\Debug\ClassLibrarySeasonalCoefficients.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2015\Projects\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients\obj\Debug\ClassLibrarySeasonalCoefficients.dll
+c:\users\anton\documents\visual studio 2015\Projects\ClassLibrarySeasonalCoefficients\ClassLibrarySeasonalCoefficients\obj\Debug\ClassLibrarySeasonalCoefficients.pdb

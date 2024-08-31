@@ -1,0 +1,11 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\bin\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\bin\Debug\HostingWpfUserControlInWf.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\UserControl1.baml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\UserControl1.g.cs
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf_MarkupCompile.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.g.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Clustering\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.pdb
